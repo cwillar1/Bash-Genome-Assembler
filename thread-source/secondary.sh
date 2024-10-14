@@ -1,0 +1,3 @@
+second () { 
+  echo "Starting thread"
+}

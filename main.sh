@@ -1,6 +1,8 @@
 #!/bin/bash
+source thread-source/secondary.sh
+
 main () { 
-  echo "Hello, World!"
+  second
 }
 
 main
